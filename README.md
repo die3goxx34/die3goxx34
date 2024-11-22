@@ -15,11 +15,7 @@ Estudio Ingeniería en Energías y tengo conocimientos básicos de Python y Pand
 - Optimización energética
 
 ## Contacto
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)]
-[![Linkedin Badge][[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=(https://co.linkedin.com/in/diego-alejandro-rodr%C3%ADguez-vargas-304091265?trk=people-guest_people_search-card)]((https://co.linkedin.com/in/diego-alejandro-rodr%C3%ADguez-vargas-304091265?trk=people-guest_people_search-card))
-<!--
-**erivera23/erivera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
